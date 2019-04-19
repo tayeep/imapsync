@@ -41,6 +41,7 @@ liburi-perl             \
 libtest-nowarnings-perl \
 libtest-deep-perl       \
 libtest-warn-perl       \
+libcrypt-openssl-rsa-perl \
 make                    \
 cpanminus
 
